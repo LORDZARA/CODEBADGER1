@@ -9,6 +9,7 @@ Inline Styling Syntax
 
 ### Background Color Example:
 
+
 <DOCTYPE html>
 <html>
 <head>

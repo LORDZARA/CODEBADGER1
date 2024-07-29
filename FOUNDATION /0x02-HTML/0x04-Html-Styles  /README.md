@@ -10,6 +10,7 @@ Inline Styling Syntax
 ### Background Color Example:
 
 
+```
 <DOCTYPE html>
 <html>
 <head>
@@ -19,6 +20,7 @@ Inline Styling Syntax
 <!-- content goes here - ->
 </body>
 </html>
+```
 
 copy and paste on your code editor and see how it works
 
